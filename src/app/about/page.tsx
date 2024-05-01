@@ -33,7 +33,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="info-item padd-15">
                       <p>
-                        Website : <span>aakash-portfolio</span>
+                        Website : <span><a href="https://light1810.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer">aakash-portfolio-link</a></span>
                       </p>
                     </div>
                     <div className="info-item padd-15">

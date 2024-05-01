@@ -59,10 +59,7 @@ const Sidebar = () => {
           </li>
         </ul>
         <div className="copyright">
-          Created with ❤️ By{" "}
-          <a href="http://alsiam.com" target="_blank" rel="noopener noreferrer">
-            Aakash
-          </a>
+          Created with ❤️ By Aakash
         </div>
       </div>
     </aside>
