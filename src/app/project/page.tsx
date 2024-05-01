@@ -16,7 +16,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/1.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/1.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>MySCE</h4>
@@ -29,7 +29,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/2.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/2.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>VIQ</h4>
@@ -42,7 +42,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/3.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/3.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>JM Cashback</h4>
@@ -58,7 +58,7 @@ const Portfolio: NextPage = () => {
             >
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/4.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/4.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>Football Zeal</h4>
@@ -71,7 +71,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="wordpress">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/5.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/5.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>Kawawa Wallet</h4>
@@ -84,7 +84,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/6.jpeg" alt="Project Snapshot" />
+                  <img src="./imgs/portfolio/6.jpeg" alt="Project Snapshot" />
                 </div>
                 <div className="portfolio-info">
                   <h4>Review Probe Jobs</h4>
