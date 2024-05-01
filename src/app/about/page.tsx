@@ -1,4 +1,5 @@
 import type { NextPage } from "next";
+import Link from 'next/link';
 
 const About: NextPage = () => {
   return (
@@ -58,13 +59,13 @@ const About: NextPage = () => {
                   </div>
                   <div className="row">
                     <div className="buttons padd-15">
-                      <a
-                        href="/assets/docs/resume.pdf"
+                      <Link
+                        href="/assets/resume.pdf"
                         target="_target"
                         className="btn"
                       >
                         Download CV
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
