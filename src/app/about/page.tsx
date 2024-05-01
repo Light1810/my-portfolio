@@ -80,15 +80,15 @@ const About: NextPage = () => {
                     <div className="skill-item padd-15">
                       <h5>React-Native / Javascript ES6</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "60%" }} />
-                        <div className="skill-percent">60%</div>
+                        <div className="progress-in" style={{ width: "70%" }} />
+                        <div className="skill-percent">70%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Android / Java</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "50%" }} />
-                        <div className="skill-percent">70%</div>
+                        <div className="progress-in" style={{ width: "60%" }} />
+                        <div className="skill-percent">60%</div>
                       </div>
                     </div>
                   </div>
